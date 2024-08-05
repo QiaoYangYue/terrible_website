@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="style.css">
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: rgb(110, 109, 109);
+    text-align: center;
+}
